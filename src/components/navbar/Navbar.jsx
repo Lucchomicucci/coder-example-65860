@@ -1,4 +1,4 @@
-import CartWidget from "../cartWidget/cartWidget"
+import CartWidget from "../cartWidget/CartWidget"
 import { Box } from "@mui/material"
 import { Link, NavLink } from "react-router-dom"
 
